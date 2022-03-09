@@ -34,7 +34,7 @@ footer:
           link: https://gohugo.io/
     - title: Links utiles
       links:
-          - title: Learn Makefiles
+        - title: Learn Makefiles
           link: https://makefiletutorial.com/
   contents: 
     align: left
