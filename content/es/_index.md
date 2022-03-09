@@ -1,6 +1,6 @@
 ---
-title: Z Themes
-description: Hugo zzo, zdoc theme documentation home page
+title: Homepage SSL MaNo
+description: Pagina principal de SSL UTN FRBA - Ma Noche
 date: 2020-01-26T04:15:05+09:00
 draft: false
 #updatesBanner: "Banner - &nbsp; [Hugo ZDoc theme](https://github.com/zzossig/hugo-theme-zdoc) &nbsp; just arrived"
