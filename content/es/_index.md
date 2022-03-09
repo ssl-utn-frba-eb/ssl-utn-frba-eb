@@ -99,9 +99,9 @@ sections:
       fontSize: 32
       width: 340
     body:
-      subtitle: Extensible and customizable.
+      subtitle: Material y còdigo.
       subtitlePosition: left
-      description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id eleifend erat. Integer eget mattis augue. Suspendisse semper laoreet tortor sed convallis. Nulla ac euismod lorem"
+      description: "En esta pàgina se podrà encontrar tanto material de estudio, como còdigo que se verà en la cursada y còdigo extra que puede ser ùtil para las pràcticas y el trabajo pràctico."
       color: white
       image: images/section/root-server.png
       imagePosition: left
