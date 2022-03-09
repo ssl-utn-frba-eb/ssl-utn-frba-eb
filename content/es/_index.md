@@ -15,37 +15,25 @@ landing:
   textColor:
   spaceBetweenTitleText: 25
   backgroundImage: 
-    src: images/karmannye-chasy-mekhanizm-retro.jpg
-    top: 50px
+    src: images/karmannye-chasy-mekhanizm-retro_gray.jpg
+    opacity: 0.4
     height: 600
 footer:
   sections:
-    - title: General
+    - title: general
       links:
         - title: Docs
           link: /docs
         - title: Blog
           link: /blog
-    - title: resources
+    - title: recursos
       links:
         - title: GitHub
+          link: https://github.com/ssl-utn-frba-eb
+        - title: Cronograma
           link: https://gohugo.io/
-        - title: Releases
-          link: https://gohugo.io/
-        - title: Spectrum
-          link: https://gohugo.io/
-        - title: Telemetry
-          link: https://gohugo.io/
-    - title: Features
+    - title: Links utiles
       links:
-        - title: GitHub
-          link: https://gohugo.io/
-        - title: Releases
-          link: https://gohugo.io/
-        - title: Spectrum
-          link: https://gohugo.io/
-        - title: Telemetry
-          link: https://gohugo.io/
   contents: 
     align: left
     applySinglePageCss: false
@@ -57,55 +45,55 @@ footer:
 sections:
   - bgcolor: teal
     type: card
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id eleifend erat. Integer eget mattis augue. Suspendisse semper laoreet tortor sed convallis. Nulla ac euismod lorem"
+    description: "Este es el sitio de la materia Sintaxis y Semantica de los Lenguajes para el curso K2XXX. Se trata de una materia curricular de 2do año de la carrera de Ingeniería en Sistemas de Información, en UTN FRBA."
     header: 
-      title: Why Zdoc
+      title: Sobre la materia
       hlcolor: "#8bc34a"
       color: '#fff'
       fontSize: 32
       width: 220
     cards:
-      - subtitle: Performance
+      - subtitle: C
         subtitlePosition: center
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id eleifend erat. Integer eget mattis augue."
+        description: "En esta materia vamos a ir viendo nociones del lenguaje de programación C, asi como las abstracciones y estructuras que se usan en él. Veremos tambien herramientas tales como Bison y YACC"
         image: images/section/keyboard.png
         color: white
-        button: 
-          name: Naver
-          link: https://gohugo.io/
-          size: large
-          target: _blank
-          color: 'white'
-          bgcolor: '#283593'
-      - subtitle: Reliability
+        # button: 
+        #   name: Naver
+        #   link: https://gohugo.io/
+        #   size: large
+        #   target: _blank
+        #   color: 'white'
+        #   bgcolor: '#283593'
+      - subtitle: Contenido teórico
         subtitlePosition: center
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id eleifend erat. Integer eget mattis augue. Suspendisse semper laoreet tortor sed convallis. Nulla ac euismod lorem"
+        description: "La materia tiene tambien un lado mas teórico en donde veremos autómatas, expresiones regulares, parsers y análisis semántico. Iremos gradualmente viendo estos temas a lo largo de la cursada."
         image: images/section/processor.png
         color: white
-        button: 
-          name: Google
-          link: https://gohugo.io/
-          size: large
-          target: _blank
-          color: 'white'
-          bgcolor: '#283593'
-      - subtitle: Productivity
+        # button: 
+        #   name: Google
+        #   link: https://gohugo.io/
+        #   size: large
+        #   target: _blank
+        #   color: 'white'
+        #   bgcolor: '#283593'
+      - subtitle: En capas
         subtitlePosition: center
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id eleifend erat. Integer eget mattis augue. Suspendisse semper laoreet tortor sed convallis. Nulla ac euismod lorem"
+        description: "La idea es dar estos temas de manera teórica, con ejemplos en clase, y que puedan aplicarse los conceptos teóricos en la práctica, tanto en clase como en ejercicios y prácticas."
         image: images/section/root-server.png
         color: white
-        button: 
-          name: Yahoo
-          link: https://gohugo.io/
-          size: large
-          target: _blank
-          color: 'white'
-          bgcolor: '#283593'
+        # button: 
+        #   name: Yahoo
+        #   link: https://gohugo.io/
+        #   size: large
+        #   target: _blank
+        #   color: 'white'
+        #   bgcolor: '#283593'
   - bgcolor: DarkSlateBlue
     type: normal
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id eleifend erat. Integer eget mattis augue. Suspendisse semper laoreet tortor sed convallis. Nulla ac euismod lorem"
     header:
-      title: Build it with Zdoc
+      title: 
       hlcolor: DarkKhaki
       color: "#fff"
       fontSize: 32
